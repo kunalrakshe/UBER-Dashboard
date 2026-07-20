@@ -195,7 +195,7 @@ Uber is a global mobility platform that uses real-time technology to connect dri
 
 ###  🔗 Connect & Collaborate
 - [x] Analyst: Kunal Rakshe
-- [x] 📧 Email: rakshekunal2@gmail.com
+- [x] 📧 Email: kunalrakshe.in@gmail.com
 - [x] 💼 LinkedIn: https://www.linkedin.com/in/kunal-rakshe-128a38318
 
 
